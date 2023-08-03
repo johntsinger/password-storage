@@ -1,6 +1,6 @@
 # Description :
 
-A password storage with rsa encryption.
+A password store with rsa encryption written in python and using the MVC pattern.
 
 You can generate a random password or save a password
 
